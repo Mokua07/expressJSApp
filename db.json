@@ -1,0 +1,22 @@
+{
+   "user1" : {
+      "name" : "Anne Achieng",
+      "college": "CBPS",
+      "course": "Analytical Chemistry"
+      "id": 1
+   },
+
+   "user2" : {
+     "name": "John Simiyu",
+     "college": "Computing",
+     "course": "Computer Science"
+      "id": 2
+   },
+
+   "user3" : {
+     "name": "Favour Ntinyari",
+     "college": "CHS",
+     "course": "Pharmacy"
+     "id": 3
+   }
+}
